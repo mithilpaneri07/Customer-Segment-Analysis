@@ -1,0 +1,40 @@
+Cluster 0
+
+High Income + High Spending
+
+Business Action:
+
+VIP Membership
+Premium Products
+Loyalty Rewards
+Cluster 1
+
+Low Income + Low Spending
+
+Business Action:
+
+Discount Campaigns
+Awareness Programs
+Cluster 2
+
+High Income + Low Spending
+
+Business Action:
+
+Personalized Offers
+Cross-selling
+Cluster 3
+
+Low Income + High Spending
+
+Business Action:
+
+Bundle Products
+Cashback Offers
+Cluster 4
+
+Medium Income + Medium Spending
+
+Business Action:
+
+Regular Promotions
