@@ -37,17 +37,6 @@ The project uses Python for data analysis and clustering and Power BI for intera
 
 ---
 
-# Dataset Features
-
-| Column | Description |<br>
-| CustomerID | Unique Customer ID |<br>
-| Gender | Male/Female |<br>
-| Age | Customer Age |<br>
-| Annual Income (k$) | Annual Income |<br>
-| Spending Score (1-100) | Customer Spending Score |<br>
-
----
-
 # Project Workflow
 
 ## Phase 1: Dataset Collection
@@ -269,3 +258,5 @@ Created:
 - Data-Driven Decision Making<br>
 
 ---
+## Dashboard Preview<br>
+![Customer_Segment_Dashboard](DashBoard1.png)
